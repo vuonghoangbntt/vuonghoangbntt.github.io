@@ -3,7 +3,7 @@ layout: page
 title: About me
 subtitle: Why you'd want to go on a date with me
 ---
-
+Hi there, I'm Hoang, a developer with passion for data and want to learn more from data.
 My name is Inigo Montoya. I have the following qualities:
 
 - I rock a great mustache
