@@ -10,10 +10,10 @@
 ############################
 
 # Name of website
-title: My Website
+title: Data Engineer & Data Science Blog
 
 # Your name to show in the footer
-author: Some Person
+author: Vuong Hoang
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -51,14 +51,14 @@ round-avatar: true
 social-network-links:
   email: "someone@example.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: c/daattali
+#  facebook: 
+  github: https://github.com/vuonghoangbntt
+#  twitter: daattali
+#  patreon: DeanAttali
+#  youtube: c/daattali
 #  medium: yourname
 #  reddit: yourname
-#  linkedin: daattali
+  linkedin: https://www.linkedin.com/in/ho%C3%A0ng-v%C6%B0%C6%A1ng-a1a994196/
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
